@@ -7,9 +7,11 @@
 
 ### Contact & Channel
 💻: [https://github.com/myyg10](https://github.com/myyg10)
+<br/>
 💌: myyg10@naver.com
+<br/>
 📞: 010-9132-8121
-<br/><br/><br/>
+<br/>
 
 # Skills🛠
 
