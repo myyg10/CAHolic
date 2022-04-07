@@ -6,12 +6,12 @@
 - 항상 도전하고 끊임없이 `노력하는 비전공 개발자`입니다.
 
 ### Contact & Channel
-💻: [https://github.com/myyg10](https://github.com/myyg10)
-<br/>
+💻: [https://github.com/myyg10/caholic](https://github.com/myyg10/caholic)
+<br/><br/>
 💌: myyg10@naver.com
-<br/>
+<br/><br/>
 📞: 010-9132-8121
-<br/>
+<br/><br/>
 
 # Skills🛠
 
