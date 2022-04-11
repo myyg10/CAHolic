@@ -1,5 +1,7 @@
 # 발전하는 최영권
 
+![PhotoView](https://user-images.githubusercontent.com/77623391/162668478-5afd0a66-9f90-43c5-86ef-8c9dac53e062.jpg)
+
 - 개발이 하고 싶은 `주니어 개발자`입니다.
 - 적지 않은 나이로 시작한 개발입니다. 
 - 하고 싶은 것이 개발이라는 것을 알았으며,
