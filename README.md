@@ -24,6 +24,10 @@
 ### SERVER
 `Amazon ec2` `ubuntu`
 
+### Rhythm Game Project
+Java Swing, awt를 활용해 만든 리듬게임입니다.
+
+
 ### Blog Projects
 
 💻: [http://www.caholic.site](http://www.caholic.site)
