@@ -25,8 +25,9 @@
 `Amazon ec2` `ubuntu`
 
 ### Rhythm Game Project
-Java Swing, awt를 활용해 만든 리듬게임입니다.
 
+DynamicBeat repository에 올린 프로젝트입니다.
+Java Swing, awt를 활용해 만든 리듬게임입니다.
 
 ### Blog Projects
 
