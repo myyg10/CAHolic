@@ -1,4 +1,4 @@
-# 발전하는 최영권
+# 발전하는 개발자
 
 ![PhotoView](https://user-images.githubusercontent.com/77623391/162668478-5afd0a66-9f90-43c5-86ef-8c9dac53e062.jpg)
 
@@ -9,6 +9,10 @@
 
 ### Contact & Channel
 💻: [https://github.com/myyg10/caholic](https://github.com/myyg10/caholic)
+<br/><br/>
+이름: 최영권
+<br/><br/>
+생년월일: 1993 / 05 / 03
 <br/><br/>
 💌: myyg10@naver.com
 <br/><br/>
