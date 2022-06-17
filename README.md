@@ -7,9 +7,6 @@
 - 하고 싶은 것이 개발이라는 것을 알았으며,
 - 항상 도전하고 끊임없이 `노력하는 비전공 개발자`입니다.
 
-### Contact & Channel
-💻: [https://github.com/myyg10/caholic](https://github.com/myyg10/caholic)
-<br/><br/>
 이름: 최영권
 <br/><br/>
 생년월일: 1993 / 05 / 03
@@ -17,6 +14,9 @@
 💌: myyg10@naver.com
 <br/><br/>
 📞: 010-9132-8121
+<br/><br/>
+### Contact & Channel
+💻: [https://github.com/myyg10/caholic](https://github.com/myyg10/caholic)
 <br/><br/>
 
 # Skills🛠
