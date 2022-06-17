@@ -17,7 +17,7 @@
 <br/><br/>
 ### Contact & Channel
 💻: [https://github.com/myyg10/caholic](https://github.com/myyg10/caholic)
-<br/><br/>
+<br/><br/><br/><br/>
 
 # Skills🛠
 
@@ -25,8 +25,8 @@
 `Java` `Spring boot`
 ### DATABASE
 `Mysql` `Oracle`
-### SERVER
-`Amazon ec2` `ubuntu`
+### SERVICE
+`Amazon ec2`
 
 ### Rhythm Game Project
 
@@ -37,7 +37,7 @@ Java Swing, awt를 활용해 만든 리듬게임입니다.
 
 💻: [http://www.caholic.site](http://www.caholic.site)
 
-`Spring boot와 JPA` 기술을 사용해 제작했으며 
+`Spring boot와 JPA` 기술을 사용해 제작했으며
 `AWS`시스템의 `EC2`를 이용해 호스팅하고 있습니다.
 
 자기개발을 위한 공간이며 더욱 더 발전해나가겠습니다.
