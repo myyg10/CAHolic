@@ -28,15 +28,16 @@
 ### SERVICE
 `Amazon ec2`
 
-### Rhythm Game Project
+## LICENSE
+### SQL 개발자<br/>
+데이터베이스와 데이터 모델링에 대한 지식을 바탕으로 응용 소프트웨어를 개발하면서 데이터를 조작하고<br/>
+추출하는데 있어서 정확하고 최적의 성능을 발휘하는 SQL을 작성할 수 있는 개발자를 말한다.
+
+## Rhythm Game Project
 
 DynamicBeat repository에 올린 프로젝트입니다.<br/>
 Java Swing, awt를 활용해 만든 리듬게임입니다.
 
-### Blog Projects
-
-💻: [http://www.caholic.site](http://www.caholic.site)
-
-`Spring boot와 JPA` 기술을 사용해 제작했으며<br/>
-`AWS`시스템의 `EC2`를 이용해 호스팅하고 있습니다.<br/>
-자기개발을 위한 공간이며 더욱 더 발전해나가겠습니다.
+## 한화 신인사 Project
+한화 신인사 프로그램 Haru 프로젝트에 투입 되어 테스트 및 출력물 담당하여 프로젝트를 마무리했습니다. <br/>
+프로젝트의 데이터 마이그레이션이 진행되어 oracle에서 mariaDB로 SQL문을 수정하여 출력물이 이상없이 작동하게 했습니다.
