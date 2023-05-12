@@ -2,10 +2,11 @@
 
 ![PhotoView](https://user-images.githubusercontent.com/77623391/162668478-5afd0a66-9f90-43c5-86ef-8c9dac53e062.jpg)
 
-- 개발이 하고 싶은 `주니어 개발자`입니다.
-- 적지 않은 나이로 시작한 개발입니다. 
-- 하고 싶은 것이 개발이라는 것을 알았으며,
-- 항상 도전하고 끊임없이 `노력하는 비전공 개발자`입니다.
+- java를 활용한 WebApplication제작을 할 수 있습니다.
+- Spring Framework를 활용하여 Web개발을 할 수 있습니다.
+- Mysql, Oracle DB를 활용할 수 있습니다.
+- 버전 관리를 위한 git을 활용할 수 있습니다.
+- 항상 도전하고 끊임없이 `노력하는 개발자`입니다.
 
 이름: 최영권
 <br/><br/>
@@ -19,10 +20,10 @@
 💻: [https://github.com/myyg10/caholic](https://github.com/myyg10/caholic)
 <br/><br/><br/><br/>
 
-# Skills🛠
+## Skills🛠
 
 ### JAVA
-`Java` `Spring boot`
+`Java` `Spring` `Spring boot`
 ### DATABASE
 `Mysql` `Oracle`
 ### SERVICE
@@ -34,7 +35,6 @@
 추출하는데 있어서 정확하고 최적의 성능을 발휘하는 SQL을 작성할 수 있는 개발자를 말한다.
 
 ## Rhythm Game Project
-
 DynamicBeat repository에 올린 프로젝트입니다.<br/>
 Java Swing, awt를 활용해 만든 리듬게임입니다.
 
